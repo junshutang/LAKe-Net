@@ -1,0 +1,41 @@
+batch_size: 54
+workers: 8
+nepoch: 150
+model_name: lakenet
+load_model: None
+start_epoch: 0
+pretrain_epoch: -1
+num_points: 16384
+num_kp1: 256
+num_kp2: 128
+num_kp3: 64
+num_kpcoarse: 512
+work_dir: log/
+flag: debug
+loss: cd
+manual_seed: null
+use_mean_feature: False
+step_interval_to_print: 1
+epoch_interval_to_save: 1
+epoch_interval_to_val: 1
+varying_constant: 1, 1, 1
+varying_constant_epochs: 10, 20
+
+kp_bottleneck_size: 256
+normalization: null
+d_residual: False
+
+lr: 1.e-3
+lr_decay: True
+lr_decay_interval: 10
+lr_decay_rate: 0.7
+lr_step_decay_epochs: null
+lr_step_decay_rates: null
+lr_clip: 1.e-6
+optimizer: Adam
+weight_decay: 0
+betas: 0.9, 0.999
+
+# test
+save_vis: False
+save_ply: True

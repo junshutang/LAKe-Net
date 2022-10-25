@@ -1,0 +1,5 @@
+# ninja log v5
+0	20338	1606221078	/all-data/hdy-disk2/xujiachen_home/tjs/pc_proj/GRNet/extensions/gridding_loss/build/temp.linux-x86_64-3.6/gridding_distance_cuda.o	48dba4e7e54517ad
+0	61659	1606221120	/all-data/hdy-disk2/xujiachen_home/tjs/pc_proj/GRNet/extensions/gridding_loss/build/temp.linux-x86_64-3.6/gridding_distance.o	ac9a6d6eb976466b
+0	10663	1606985649	/all-data/themachine-disk1/tangjunshu_home/pc_proj/GRNet/extensions/gridding_loss/build/temp.linux-x86_64-3.6/gridding_distance_cuda.o	1dbaef67dccf3793
+0	30155	1606985668	/all-data/themachine-disk1/tangjunshu_home/pc_proj/GRNet/extensions/gridding_loss/build/temp.linux-x86_64-3.6/gridding_distance.o	ed2d40db8cb0d027

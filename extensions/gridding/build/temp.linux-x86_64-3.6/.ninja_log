@@ -1,0 +1,7 @@
+# ninja log v5
+0	20662	1606221008	/all-data/hdy-disk2/xujiachen_home/tjs/pc_proj/GRNet/extensions/gridding/build/temp.linux-x86_64-3.6/gridding_cuda.o	e700d614c1bfb8a7
+0	60091	1606221048	/all-data/hdy-disk2/xujiachen_home/tjs/pc_proj/GRNet/extensions/gridding/build/temp.linux-x86_64-3.6/gridding.o	f64e0e902bd69129
+0	61029	1606221049	/all-data/hdy-disk2/xujiachen_home/tjs/pc_proj/GRNet/extensions/gridding/build/temp.linux-x86_64-3.6/gridding_reverse.o	677eb9210c08e915
+0	11004	1606985587	/all-data/themachine-disk1/tangjunshu_home/pc_proj/GRNet/extensions/gridding/build/temp.linux-x86_64-3.6/gridding_cuda.o	461cdd0fa694bae2
+0	33110	1606985609	/all-data/themachine-disk1/tangjunshu_home/pc_proj/GRNet/extensions/gridding/build/temp.linux-x86_64-3.6/gridding.o	8a8f6b9bf761cb95
+0	34831	1606985611	/all-data/themachine-disk1/tangjunshu_home/pc_proj/GRNet/extensions/gridding/build/temp.linux-x86_64-3.6/gridding_reverse.o	c9cb72b80a2a6dcc

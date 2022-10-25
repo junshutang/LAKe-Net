@@ -1,0 +1,5 @@
+# ninja log v5
+0	20045	1606220941	/all-data/hdy-disk2/xujiachen_home/tjs/pc_proj/GRNet/extensions/cubic_feature_sampling/build/temp.linux-x86_64-3.6/cubic_feature_sampling_cuda.o	652e00fff88df94
+0	57126	1606220978	/all-data/hdy-disk2/xujiachen_home/tjs/pc_proj/GRNet/extensions/cubic_feature_sampling/build/temp.linux-x86_64-3.6/cubic_feature_sampling.o	ab43d7f8a2a6d570
+0	10952	1606985545	/all-data/themachine-disk1/tangjunshu_home/pc_proj/GRNet/extensions/cubic_feature_sampling/build/temp.linux-x86_64-3.6/cubic_feature_sampling_cuda.o	13c40d8683e5e7e
+0	30149	1606985564	/all-data/themachine-disk1/tangjunshu_home/pc_proj/GRNet/extensions/cubic_feature_sampling/build/temp.linux-x86_64-3.6/cubic_feature_sampling.o	b9a5d145cfe6eb14
